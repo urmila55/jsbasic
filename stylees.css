@@ -1,0 +1,23 @@
+.group {
+    margin-bottom: 20px;
+}
+
+.item {
+    background-color: #f0f0f0;
+    padding: 30px;
+    margin: 5px;
+    border: 1px solid #ccc;
+}
+
+.mycontainer {
+  width:500%;
+  overflow:auto;
+}
+.mycontainer div {
+  width:33%;
+  float:left;
+}
+div{
+    width:10%;
+    display: inline-block
+}

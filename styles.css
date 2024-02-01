@@ -1,0 +1,17 @@
+.group {
+    margin-bottom: 20px;
+}
+
+.item {
+    background-color: #f0f0f0;
+    padding: 30px;
+    margin: 5px;
+    border: 1px solid #ccc;
+}
+
+div{
+    width:10%;
+    display: inline-block
+}
+
+
